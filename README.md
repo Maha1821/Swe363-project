@@ -15,4 +15,6 @@ userName: "Admin123"
 
 Password: "AdminPassword123"
 
+Note: the work has been done and distributed properly with all team members.
+
 It is better to start with the html file called "login.html" that is located in the swe_project file
