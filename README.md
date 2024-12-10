@@ -3,7 +3,7 @@ This is our Front-end for the project for the course swe363
 
 THE FINAL PROJECT IS THE LATEST VERSION
 
-In order to log-in successfully sunce there is not any DataBase or back-end attached to this you need to use the following:
+In order to log-in successfully, you need to use the following:
 
 As a registered user:
 
@@ -21,7 +21,7 @@ It is better to start with the html file called "login.html" that is located in 
 
 Note: the work has been done and distributed properly with all team members. 
 
-We tried to deploy it but unfortunately it did not work
+We tried to deploy it but unfortunately it did not work. 
 the link:
 https://magnificent-kangaroo-777b23.netlify.app/
 IT HAS NOT BEEN DEPLOYED
