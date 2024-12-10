@@ -1,5 +1,5 @@
 # Swe363-project
-This is our Front-end for the project for the course swe363
+This is our project for the course swe363
 
 THE FINAL PROJECT IS THE LATEST VERSION
 
