@@ -19,4 +19,9 @@ Password: "Duaa1928"
 
 It is better to start with the html file called "login.html" that is located in the swe_project file
 
-Note: the work has been done and distributed properly with all team members. IT HAS NOT BEEN DEPLOYED
+Note: the work has been done and distributed properly with all team members. 
+
+We tried to deploy it but unfortunately it did not work
+the link:
+https://magnificent-kangaroo-777b23.netlify.app/
+IT HAS NOT BEEN DEPLOYED
